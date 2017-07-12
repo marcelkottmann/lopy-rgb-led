@@ -1,3 +1,4 @@
+# Program LoPY RGB LED with Arduino IDE
 This sketch shows how to program the LoPy builtin rgb led.
 
 Read here to configure your Arduino IDE for the Pycom LoPy board:
